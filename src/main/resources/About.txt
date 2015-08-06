@@ -1,0 +1,7 @@
+********************************About*******************************
+this application was brought to you as final
+project in the course of Java. 
+developed by Golan Sabo and Yaniv Sapir.
+We enjoyed working on it!
+Course Lecturer: Haim Michael
+Lecturer Assistant: Ariel Papa

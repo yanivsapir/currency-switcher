@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/scala-sdk-2.11.7"/>
+	<classpathentry kind="lib" path="C:/jars/scala-xml-2.11.0-M4.jar"/>
+	<classpathentry kind="lib" path="C:/jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/jars/hamcrest-junit-2.0.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/jars/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="output" path="out/production/currencies-scala"/>
+</classpath>

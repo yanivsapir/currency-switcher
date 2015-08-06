@@ -1,0 +1,37 @@
+Sun Jul 19 21:42:36 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"AppInit"
+Sun Jul 19 21:42:36 IDT 2015	AppInit:[INFO](26):		Previous log file was removed...
+Sun Jul 19 21:42:36 IDT 2015	AppInit:[INFO](27):		Starting App...
+Sun Jul 19 21:42:36 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"GuiInit"
+Sun Jul 19 21:42:36 IDT 2015	GuiInit:[INFO](17):		Preparing params for gui...
+Sun Jul 19 21:42:36 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"DataAdaptor"
+Sun Jul 19 21:42:36 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"XmlParser"
+Sun Jul 19 21:42:36 IDT 2015	XmlParser:[INFO](49):		Parsing file...
+Sun Jul 19 21:42:36 IDT 2015	XmlParser:[INFO](27):		Connectiong to BOI's site...
+Sun Jul 19 21:42:38 IDT 2015	XmlParser:[INFO](35):		Currencies file was downloaded from BOI's site
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Coin"
+Sun Jul 19 21:42:38 IDT 2015	XmlParser:[INFO](66):		File parsed, coins data is ready
+Sun Jul 19 21:42:38 IDT 2015	DataAdaptor:[INFO](37):		Building coins data...
+Sun Jul 19 21:42:38 IDT 2015	DataAdaptor:[INFO](45):		Coins Data was built
+Sun Jul 19 21:42:38 IDT 2015	DataAdaptor:[INFO](22):		Building Countries array...
+Sun Jul 19 21:42:38 IDT 2015	DataAdaptor:[INFO](26):		Countries array was built
+Sun Jul 19 21:42:38 IDT 2015	GuiInit:[INFO](26):		Params are ready
+Sun Jul 19 21:42:38 IDT 2015	GuiInit:[INFO](27):		Initializing GUI...
+Sun Jul 19 21:42:38 IDT 2015	ClassLogger:[INFO](18):		new Logger for class:	"Gui"
+Sun Jul 19 21:42:38 IDT 2015	Gui:[INFO](110):		Placing Gui elements...
+Sun Jul 19 21:42:38 IDT 2015	Gui:[INFO](152):		Gui elements are in place
+Sun Jul 19 21:42:38 IDT 2015	GuiInit:[INFO](29):		GUI is ready for action
+Sun Jul 19 21:42:47 IDT 2015	Gui:[INFO](148):		We hope our app was useful, see you next time!

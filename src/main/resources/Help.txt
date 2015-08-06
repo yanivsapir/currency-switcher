@@ -1,0 +1,31 @@
+*********User Manual*********
+Welcome to Golan's & Yaniv's 
+Currency Converter Application 
+User Manual. This Manual is designed 
+to introduce the Currency Converter application,
+to show how to use the system to
+check currencies, and to provide a
+general overview of currencies available to 
+trader using the Israeli Bank data. 
+
+*********Currencies Tab*********
+1)Choose the coin you want to convert from.
+2)Choose the coin you want to convert to.
+3)Write the amount of coins you want convert
+	on the to text field.
+4)Press the "Convert" button.
+5)Press the "Switch" button in case you want
+	to switch between the coin you have and the
+	you want.
+	
+*******Currency Table Tab*******
+In this tab you will be able to examine
+all currencies compared to NIS.
+
+***********About Tab***********
+In this tab you will be able to read
+about us (the makers of the application)
+
+
+We hope you'll enjoy using our
+currency converter :) 

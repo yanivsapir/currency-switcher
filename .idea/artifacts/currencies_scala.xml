@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="currencies-scala">
+    <output-path>$PROJECT_DIR$/out/artifacts/currencies_scala</output-path>
+    <root id="root" />
+  </artifact>
+</component>
